@@ -13,8 +13,7 @@ Features
 *   **OpenWeatherMap API Integration:** The application utilizes the OpenWeatherMap API to retrieve weather data for specified locations.
 *   **Form Component:** A form component is implemented to enable users to input city names. The application manages input field state and handles weather data fetched from the API.
 *   **Display Weather Information:** Current temperature, weather conditions, and other relevant data retrieved from the API are displayed to the user.
-*   **Error Handling:** Robust error handling is implemented to handle cases such as invalid city names or failed API requests. Appropriate error messages are displayed to the user.
-*   **Responsiveness:** The application is responsive to varying screen sizes and devices, ensuring an optimal user experience across different platforms.
+
 
 Installation
 ------------
