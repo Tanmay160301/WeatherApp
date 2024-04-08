@@ -21,21 +21,21 @@ Installation
 
 1.  Clone the repository to your local machine:
     
-    bashCopy code
-    
-    `git clone <repository-url>`
+    ```git
+    git clone https://github.com/Tanmay160301/WeatherApp.git
+    ```
     
 2.  Navigate to the project directory:
     
-    bashCopy code
-    
-    `cd weather-application`
+     ```git
+    cd WeatherApp
+    ```
     
 3.  Install dependencies:
+     ```git
+    npm install
+    ```
     
-    Copy code
-    
-    `npm install`
     
 
 Usage
@@ -43,11 +43,11 @@ Usage
 
 1.  Start the application:
     
-    sqlCopy code
+     ```git
+    npm run dev
+    ```
     
-    `npm start`
-    
-2.  Access the application in your web browser at `http://localhost:3000`.
+2.  Access the application in your web browser at `http://localhost:5173/WeatherApp/`.
 
 API Key
 -------
